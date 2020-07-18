@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an 'innovative' mobile appication made with Flutter <3
+- 🌱 I’m currently learning to integrate ML into the software projects
+- 👯 I’m looking to collaborate on exciting, creative and crazy ideas
+- 🤔 I’m looking for help with mine opensource gitbash guide repo
+- 💬 Ask me about just anything. I love to help and talk about tech stuff
+- 📫 How to reach me: alifaisalaslam@gmail.com or instagram/linkedin @ thealifaisal
+- 😄 Pronouns: witty, diplomatic, curious, logical, creative, observant
+
+- ⚡ Fun fact: love memes 😄
+
 <!--
 **thealifaisal/thealifaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
