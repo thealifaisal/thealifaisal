@@ -4,7 +4,7 @@
 - 🌱 I’m doing a Deep Learning Specialization from Coursera
 - 👯 I’m looking to collaborate on exciting, creative and crazy ideas on Flutter
 <!-- - 🤔 I’m looking for help with mine opensource gitbash guide repo -->
-- 💬 Ask me about just anything. I love to help and talk about tech stuff
+<!-- - 💬 Ask me about just anything. I love to help and talk about tech stuff -->
 - 📫 How to reach me: alifaisalaslam@gmail.com or instagram/linkedin @ thealifaisal
 - 😄 Pronouns: witty, diplomatic, curious, logical, creative, observant
 
