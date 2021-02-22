@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome to my git! 👋
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=thealifaisal&count_private=true&show_icons=true&theme=dark&hide=contribs)
 
